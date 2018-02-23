@@ -1,3 +1,4 @@
 plugins:
+  .postcssrc.yml: postcss-nested: {}
   postcss-import: {}
   postcss-cssnext: {}
