@@ -1,5 +1,3 @@
-
-
 // frontend/packs/application.js
 import "./application.css";
 
